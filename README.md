@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor and I'm a Java Developer</p>
+<p align="left">My name is Victor and I'm a JavaScript Developer</p>
 
 ###
 
